@@ -1,0 +1,5 @@
+Credentials cache: API:06783D2C-A3AF-454B-BD0D-DAF4E769A6FD
+        Principal: mcormier@42.FR
+
+		  Issued                Expires               Principal
+		  Jul 30 15:56:59 2019  Aug  6 15:56:54 2019  krbtgt/42.FR@42.FR
